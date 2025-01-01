@@ -1,0 +1,252 @@
+{
+    "bebidas": [
+        {
+            "nombre": "Agua"
+        },
+        {
+            "nombre": "Agua con gas"
+        },
+        {
+            "nombre": "Levite (pomelo, manzana, pera, etc)"
+        },
+        {
+            "nombre": "Coca Cola (común, zero)"
+        },
+        {
+            "nombre": "Limonada"
+        }
+    ],
+    "principales": [
+        {
+            "nombre": "Pollo al spiedo (entero)",
+            
+            "precio": "22.000"
+        },
+        {
+            "nombre": "1/2 pollo",
+            
+            "precio": "12.000"
+        },
+        {
+            "nombre": "1/4 pollo",
+            
+            "precio": "8.000"
+        }
+    ],
+    "entradas": [
+        {
+            "nombre": "Provoleta",
+            
+            "precio": "6.000"
+        },
+        {
+            "nombre": "Croquetas de arroz y verduras",
+            
+            "precio": "5.000"
+        },
+        {
+            "nombre": "Habas con queso de cabra",
+            
+            "precio": "5.500"
+        },
+        {
+            "nombre": "Escabeche de berejenas",
+            
+            "precio": "3.500"
+        }
+    ],
+    "guarnicion": [
+        {
+            "nombre": "Papas al horno"
+            
+            
+        },
+        {
+            "nombre": "Ensalada rusa"
+            
+            
+        },
+        {
+            "nombre": "Arroz primavera"
+            
+            
+        },
+        {
+            "nombre": "Ensalada zombra (repollo morado,remolacha,zanahoria y tomate)"
+            
+            
+        },
+        {
+            "nombre": "Croquetas de arroz con verdura"
+            
+        }
+    ],
+    "milanesas":[
+        {
+            "nombre": "Milanesa de cuadril (para 1 persona)",
+            
+            "precio": "9.000"
+        },
+        {
+            "nombre": "Milanesa de cuadril (para 2 personas)",
+            
+            "precio": "16.000"
+        },
+        {
+            "nombre": "Milanesa de entraña (para 1 persona)",
+            
+            "precio": "10.500"
+        },
+        {
+            "nombre": "Milanesa de entraña (para 2 persona)",
+            
+            "precio": "20.000"
+        },
+        {
+            "nombre": "Milanesa de berenjena (para 1 personas)",
+            "precio": "6.000"
+        },
+        {
+            "nombre":"Extra: a la pizza",
+            "precio":"1.000"
+        }
+    ],
+    "pizzas":[
+        {
+            "nombre": "Margarita",
+            "descripcion": "Salsa de tomate, muzzarella, albahaca fresca, tomates cherry caramelizados y aceite de oliva",
+            "precio": "12.000"
+        },
+        {
+            "nombre":"Pepperoni",
+            "descripcion":"Salsa de tomate, muzzarela,pepperoni y parmesano",
+            "precio":"14.000"
+        },
+        {
+            "nombre":"Mortadela y pistacho",
+            "descripcion":"Salsa de pistacho tostado, muzzarella, mortadela con pistacho, pesto fresco y lluvia de pistachos tostados",
+            "precio":"16.000"
+        },
+        {
+            "nombre":"Zpezial",
+            "descripcion":"Salsa de tomate, muzzarella, jamón cocido, ají en vainas, aceitunas y pepinillos",
+            "precio":"14.000"
+        },
+
+        {
+            "nombre":"Jamón crudo",
+            "descripcion":"Salsa de tomate, muzzarella, jamón crudo, rúcula, parmesano, nueces y aceite de oliva",
+            "precio":"16.000"
+        },
+        {
+            "nombre":"Cuatro quesos",
+            "descripcion":"Salsa de tomate y cuatro quesos: muzzarella,roquefort, parmesano y criollo",
+            "precio":"16.000"
+        }
+    ],
+    "bebidasSinAlcohol":[
+        {
+            "nombre":"villavicencio agua mineral 500cc",
+            "precio":"1.850"
+        },
+        {
+            "nombre":"villavicencio agua mineral con gas 500cc",
+            "precio":"2.100"
+        },
+        {
+            "nombre":"villavicencio agua mineral 1,5lt",
+            "precio":"3.000"
+        },
+        {
+            "nombre":"villavicencio agua mineral con gas 1,5lt",
+            "precio":"3.200"
+        }
+    ],    
+    "lata":[
+                {
+                    "nombre":"salta rubia",
+                    "precio":"2.600"
+                },
+                {
+                    "nombre":"salta negra",
+                    "precio":"2.600"
+                },
+                {
+                    "nombre":"imperial",
+                    "precio":"2.900"
+                },
+                {
+                    "nombre":"sol",
+                    "precio":"3.400"
+                },
+                {
+                    "nombre":"heineken",
+                    "precio":"3.500"
+                },
+                {
+                    "nombre":"bieckert urbana",
+                    "precio":"3.500"
+                },
+                {
+                    "nombre":"bieckert bapa",
+                    "precio":"3.500"
+                },
+                {
+                    "nombre":"crolsch",
+                    "precio":"3.500"
+                },
+                {
+                    "nombre":"bluemoon",
+                    "precio":"4.000"
+                }
+
+            ],
+            "botella1.5":[
+                {
+                    "titulo":"Botella 1,5 lt"
+                },
+                {
+                    "nombre":"salta rubia",
+                    "precio":"4.700"
+                },
+                {
+                    "nombre":"salta negra",
+                    "precio":"4.700"
+                },
+                {
+                    "nombre":"imperial",
+                    "precio":"5.200"
+                },
+                {
+                    "nombre":"imperial ipa",
+                    "precio":"5.200"
+                },
+                {
+                    "nombre":"miller",
+                    "precio":"5.600"
+                },
+                {
+                    "nombre":"heineken",
+                    "precio":"6.000"
+                }
+            ],
+            "cocktails":[
+                {
+                    "nombre":"Tinto de verano",
+                    "descripcion":"Vino tinto, menta, almibar, agua con gas y jugo de limón"
+                },
+                {
+                    "nombre":"Gin tonic Cítrico",
+                    "descripcion":"El popular gin tonic acompañado de aromas citricos y cositas"
+                },
+                {
+                    "nombre":"Fernet",
+                    "descripcion":"Fernet con coca, un clasico"
+                },
+                {
+                    "nombre":"Flaco Peis",
+                    "descripcion":"Cynar, tonica y jugo de pomelo"
+                }
+            ]
+
+}

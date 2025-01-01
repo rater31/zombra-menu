@@ -1,0 +1,9 @@
+---
+const {titulo, precio, contenido} = Astro.props
+---
+
+<div class="text-white grid grid-cols-3  p-4">
+    <h2 class="text-start text-[12px]">{titulo}</h2>
+    <p class="text-[#b57869] text-[12px] ">{contenido}</p>
+    <p class="text-end text-[12px]">${precio}</p>
+</div>
